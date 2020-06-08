@@ -1,0 +1,15 @@
+i am new for OpenFOAM as well as coding world .
+i download ubuntu 18.04 and OpenFOAM-v1912
+i did all installation procedure
+including source /home/<user name>/OpenFOAM/OpenFOAM-v1912/etc/bashrc
+
+
+but i found this problem,
+
+sagar_tejani@LAPTOP-LUDAA94B:~$ blockmesh
+blockmesh: command not found
+
+
+
+hope,anyone can solve my problem .
+thanks.
